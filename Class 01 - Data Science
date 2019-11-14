@@ -1,0 +1,6 @@
+#Primeros pasos con Python
+
+nombre = "Daniel"
+edad = 29
+print(nombre, edad)
+print('Mi nombre es {0}. Mi edad es {1} años'.format(nombre, edad))
